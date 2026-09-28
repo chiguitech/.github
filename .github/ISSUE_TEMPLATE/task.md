@@ -1,3 +1,11 @@
+---
+name: TASK task
+about: Create a backend implementation task
+title: "[BACK]: "
+labels: backend
+assignees: ""
+---
+
 # ISSUE
 
 ## Problem Statement
