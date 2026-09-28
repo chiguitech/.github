@@ -26,21 +26,6 @@ assignees: ""
 
 <!-- What must be true for the requirement to be considered satisfied? -->
 
-### Preconditions
-
-*
-
-### Behavior
-
-*
-
-### Postconditions
-
-*
-
-### Errors
-
-*
 
 ## Tests
 
